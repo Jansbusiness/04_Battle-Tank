@@ -45,6 +45,7 @@
 *.VC.db
 *.VC.opendb
 
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
@@ -54,6 +55,9 @@ Binaries/*
 
 # Builds
 Build/*
+
+# StarterContent
+/*StarterContent
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
@@ -71,7 +75,7 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
-StarterContent/*
+
 
 # Cache files for the editor to use
 DerivedDataCache/*
